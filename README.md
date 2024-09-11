@@ -34,7 +34,7 @@ sudo apt full-upgrade
 
 
 # math
-
+[My favorite math website](https://www.desmos.com/calculator)
 ## slope intercept form
 $$y = mx + b$$
 
