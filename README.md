@@ -31,3 +31,9 @@ sudo apt full-upgrade
 |Yummyness|8|6|
 |Pricing|4|8|
 |Total|12|14|
+
+
+# math
+
+## slope intercept form
+$$y = mx + b$$
