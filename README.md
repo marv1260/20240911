@@ -43,5 +43,5 @@ $$A^2+B^2=C^2$$
 
 ## quadratic
 $$
-x = \frac{-b±\sqrt(b^2+4ac)}{2a}
+x = \frac{-b±\sqrt{b^2+4ac}}{2a}
 $$
