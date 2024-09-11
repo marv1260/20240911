@@ -40,3 +40,6 @@ $$y = mx + b$$
 
 ## pythagorean theorem
 $$A^2+B^2=C^2$$
+
+## quadratic
+##x = (-b±sqrt{b^2+4ac})/2a$$
