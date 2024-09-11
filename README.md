@@ -10,14 +10,14 @@
 3. coding
 ` do ``` and ``` `
 For example:
-```
+``` bash
 sudo apt update
 sudo apt full-upgrade
 ```
 
 ## Tables
 
-Example:
+### Example:
 ```
 |Food name|Burger|Chips|
 |:-:|:--|--:|
