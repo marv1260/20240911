@@ -15,3 +15,17 @@ sudo apt update
 sudo apt full-upgrade
 ```
 
+## Tables
+
+Example:
+```
+|Food name|Burger|Chips|
+|Yummyness|8|6|
+|Pricing|4|8|
+|Total|12|14|
+```
+### results:
+|Food name|Burger|Chips|
+|Yummyness|8|6|
+|Pricing|4|8|
+|Total|12|14|
