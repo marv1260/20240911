@@ -37,3 +37,6 @@ sudo apt full-upgrade
 
 ## slope intercept form
 $$y = mx + b$$
+
+## pythagorean theorem
+$$A^2+B^2=C^2$$
